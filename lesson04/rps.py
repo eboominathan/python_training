@@ -11,7 +11,7 @@ class RPS(Enum):
 
 print("")
 playerchoice = input(
-    "Enter...\n1 for Rock,\n2 for Paper, or \n3 for Scissors:\n\n")
+    "Enter...\n1 for Rock,\n2 for Paper, or \n3 for Scissors:\n\n ")
 
 player = int(playerchoice)
 
