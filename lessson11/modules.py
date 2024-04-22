@@ -9,13 +9,13 @@ from rps7 import rock_paper_scissors
 
 print(pi)
 
-for item in dir(rdm):
-    print(item)
+# for item in dir(rdm):
+#     print(item)
 
-# print(kansas.capital)
-# kansas.randomfunfact()
+print(kansas.capital)
+kansas.randomfunfact()
 
-# print(__name__)
-# print(kansas.__name__)
+print(__name__)
+print(kansas.__name__)
 
-# rock_paper_scissors()
+rock_paper_scissors()
